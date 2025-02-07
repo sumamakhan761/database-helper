@@ -28,7 +28,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/sumamakhan761/LangChain_SQL_Chat.git
+git clone https://github.com/sumamakhan761/database-helper.git
 cd LangChain_SQL_Chat
 ```
 
