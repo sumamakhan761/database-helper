@@ -38,18 +38,6 @@ cd LangChain_SQL_Chat
 pip install -r requirements.txt
 ```
 
-### 🔧 Configuration
-
-#### Set up Environment Variables
-
-Create a `.env` file in the root directory and add your Groq API Key:
-
-```env
-GROQ_API_KEY=your_groq_api_key_here
-```
-
-Replace `your_groq_api_key_here` with your actual Groq API key.
-
 #### Database Setup
 - Provide your MySQL credentials in the application sidebar when running the app.
 ---
@@ -60,8 +48,6 @@ Replace `your_groq_api_key_here` with your actual Groq API key.
 streamlit run app.py
 ```
 
----
-
 ## 🛠 Features
 
 - ✅ **Chat Interface:** Natural language interaction with your SQL database.
@@ -69,7 +55,6 @@ streamlit run app.py
 - ✅ **LangChain Agents:** Utilizes LangChain's SQL Agent for generating SQL queries from natural language.
 - ✅ **Groq Models:** Powered by Groq's large language models for understanding user queries.
 - ✅ **Real-time Streaming:** Supports streaming responses for a seamless experience.
-
 ---
 
 ## 🧰 Tech Stack
