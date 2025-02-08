@@ -1,7 +1,9 @@
-streamlit
-pathlib
 langchain
-langchain-groq
+langchain-text-splitters
+langchain_groq
+langchain_core
+streamlit
 mysql-connector-python
 SQLAlchemy
+langchain-community
 validators==0.28.1
