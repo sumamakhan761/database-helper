@@ -10,7 +10,10 @@
 
 ## 🚀 Demo
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+https://github.com/user-attachments/assets/89e6e092-b529-463f-ad87-a12b5f0be4bf
+
+
 
 *Note: Replace `YOUR_VIDEO_ID` with the actual YouTube video ID of your project demo.*
 
