@@ -1,6 +1,7 @@
 streamlit
 pathlib
 langchain
-sqlalchemy
-sqlite3
 langchain-groq
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
