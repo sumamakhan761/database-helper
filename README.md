@@ -32,6 +32,7 @@ https://github.com/user-attachments/assets/89e6e092-b529-463f-ad87-a12b5f0be4bf
 ```bash
 # Clone the repository
 git clone https://github.com/sumamakhan761/database-helper.git
+cd database-helper
 ```
 
 ### 💫 Install Dependencies
